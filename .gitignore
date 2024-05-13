@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FMOD
+!/Plugins/FMODStudio
+!/Plugins/FMODStudioNiagara
+
+# MacOS
+.DS_Store
