@@ -78,6 +78,8 @@ DerivedDataCache/*
 !/Plugins/FMODStudioNiagara
 !/Plugins/FMODStudio/Binaries/*
 !/Plugins/FMODStudioNiagara/Binaries/*
+!/Plugins/FMODStudio/Binaries/*/*.dylib
+!/Plugins/FMODStudioNiagara/Binaries/*/*.dylib
 
 # MacOS
 .DS_Store
