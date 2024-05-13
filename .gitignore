@@ -74,8 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # FMOD
-/Plugins/FMODStudio
-/Plugins/FMODStudioNiagara
+/Plugins/FMODStudio/*
+/Plugins/FMODStudioNiagara/*
 
 # MacOS
 .DS_Store
